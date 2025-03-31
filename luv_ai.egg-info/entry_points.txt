@@ -1,0 +1,2 @@
+[console_scripts]
+luv-ai = luv_ai.cli:main
